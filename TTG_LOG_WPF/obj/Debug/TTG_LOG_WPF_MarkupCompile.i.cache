@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\hr\H_TEST\TTG_LOG_WPF\TTG_LOG_WPF\obj\Debug\
+C:\H_TEST\LOG\TTG_LOG_WPF\obj\Debug\
 TTG_LOG_WPF
 none
 false
 DEBUG;TRACE
-D:\hr\H_TEST\TTG_LOG_WPF\TTG_LOG_WPF\Views\App.xaml
-21591999677
+C:\H_TEST\LOG\TTG_LOG_WPF\Views\App.xaml
+250600980
 
-151462392844
-16-526450349
+121477329270
+16103229376
 Views\LogView.xaml;Views\MainWindow.xaml;
 
-False
+True
 
